@@ -1,0 +1,6 @@
+/deploy
+backend/logs
+backend/logs*
+frontend/logs
+frontend/logs*
+__pycache__

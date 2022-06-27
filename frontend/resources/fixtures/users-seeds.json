@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Eddie Van Halen",
+        "email": "eddie@vanhalen.com",
+        "password": "abc123"
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "email": "Ichigo@yahoo.com",
+        "password": "abc123"
+    },
+    {
+        "name": "Jimmi Hendrix",
+        "email": "jimmi.hendrix@hotmail.com",
+        "password": "abc123"
+    }
+]

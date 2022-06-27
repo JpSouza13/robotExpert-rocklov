@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kakashi Hatake",
+        "email": "kakashi@yahoo.com",
+        "password": "abc123"
+    },
+    {
+        "name": "Rita Lee",
+        "email": "ritalee@yahoo.com",
+        "password": "abc123"
+    },
+    {
+        "name": "Minato Namikaze",
+        "email": "minato@yahoo.com",
+        "password": "abc123"
+    }
+]
